@@ -65,7 +65,7 @@ Whether you're a developer testing different environments, a security enthusiast
 
 ---
 
-### 🏠   MAIN PAGE
+### 🏠  MAIN PAGE
 
 ![PAGE](http://github.com/haricharanbonam/whoami/raw/main/public/picture.png)
 
