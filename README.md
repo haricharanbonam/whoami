@@ -65,6 +65,10 @@ Whether you're a developer testing different environments, a security enthusiast
 
 ---
 
+### 🏠   MAIN PAGE
+
+![PAGE](http://github.com/haricharanbonam/whoami/blob/main/public/picture.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
