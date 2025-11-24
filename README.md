@@ -111,7 +111,7 @@ No configuration or user input required!
 ## 🔌 API Endpoints
 
 ### GET `/api/info`
-Returns comprehensive client information in JSON format.
+Returns server-side detected client information in JSON format.
 
 **Response Example:**
 ```json
@@ -146,6 +146,8 @@ Returns comprehensive client information in JSON format.
   "timestamp": "2024-11-24T11:39:28.711Z"
 }
 ```
+
+**Note:** Additional client-side features (battery status, connection type, downlink speed, theme preference, etc.) are detected using browser APIs and combined with server data in the frontend.
 
 ---
 
